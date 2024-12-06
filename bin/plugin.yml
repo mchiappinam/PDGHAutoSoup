@@ -1,0 +1,13 @@
+main: me.mchiappinam.antiautosoup.Main
+name: PDGHAutoSoup
+version: 1.0
+author: mchiappinam
+
+commands:
+   as:
+      description: Info.
+      usage: /<command>
+permissions:
+    pdgh.admin:
+        description: notifies you when an auto souper is found
+        default: op

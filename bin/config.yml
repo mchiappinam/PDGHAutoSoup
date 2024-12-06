@@ -1,0 +1,8 @@
+check-time: 99
+message-delay: 1000
+maximum-allowed-violation-level: 3
+logging:
+  enabled: false
+  always: false
+  divisible: 5
+  at-level: 50
